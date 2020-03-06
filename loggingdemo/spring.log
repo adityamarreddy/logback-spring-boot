@@ -1,0 +1,9 @@
+2020-02-25 18:15:18.755  INFO 36589 --- [main] o.a.l.BootloggingdemoApplication         : Starting BootloggingdemoApplication on HYD-LAP-00288.local with PID 36589 (/Users/nisum/Documents/Aditya/SpringBootApps/loggingdemo/target/classes started by nisum in /Users/nisum/Documents/Aditya/SpringBootApps/loggingdemo)
+2020-02-25 18:15:18.758  INFO 36589 --- [main] o.a.l.BootloggingdemoApplication         : No active profile set, falling back to default profiles: default
+2020-02-25 18:15:19.328  INFO 36589 --- [main] o.a.l.BootloggingdemoApplication         : Started BootloggingdemoApplication in 0.843 seconds (JVM running for 1.311)
+2020-02-25 18:15:19.329  INFO 36589 --- [main] o.a.loggingdemo.service.LoggingService   : service info message
+2020-02-25 18:15:19.329  WARN 36589 --- [main] o.a.loggingdemo.service.LoggingService   : service warn message
+2020-02-25 18:15:19.329  INFO 36589 --- [main] o.avr.loggingdemo.helper.LoggingHelper   : helper info message
+2020-02-25 18:15:19.329 ERROR 36589 --- [main] o.avr.loggingdemo.helper.LoggingHelper   : helper error message
+2020-02-25 18:15:19.329  WARN 36589 --- [main] o.avr.loggingdemo.helper.LoggingHelper   : helper warn message
+2020-02-25 18:15:19.329 ERROR 36589 --- [main] o.a.loggingdemo.service.LoggingService   : service error message
